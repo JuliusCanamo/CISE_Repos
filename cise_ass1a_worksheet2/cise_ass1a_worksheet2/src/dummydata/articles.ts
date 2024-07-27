@@ -36,4 +36,3 @@ export const ARTICLES: any[] = [
     claim_evidence: [["code improvement", "weak support"], ["product improvement", "weak support"], ["team improvement", "none"]],
   },
 ];
-
